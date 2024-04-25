@@ -84,7 +84,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/sayanmanda"
+            href="https://github.com/sayanfrontdev"
             target="_blank"
             rel="noreferrer"
           >
